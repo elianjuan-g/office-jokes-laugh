@@ -1,0 +1,53 @@
+{
+  "format": "agent-fun/kit/v1",
+  "competition": "u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a",
+  "phase": "dev",
+  "bundle_sha256": "41926b8e48b7833480ed327b34206dc54e3318d203c62ff0b8394db7579c304e",
+  "dataset_sha256": null,
+  "harness_version": "harness@e8ecd42319d4445085900a2f20ea20381430c635f26323f3a353f69f1e297bd5 node v26.13.1",
+  "scorer_version": "scorer@0347dcef644cc407db4ab49663e2c116c1eea2994df07889035504550910abd6 program@49e164c1bcda970b1d451c8e371f5fe6c2f1b7dd483219cc1745c0493c9784e3",
+  "pricing_rev": "34d1007cd9dd19a1d751a8b87e79e95c181a94b3e791b1a546de6dac11435dbe",
+  "protocol": "agent-fun/program/v1",
+  "files": [
+    {
+      "path": "RULES.txt",
+      "sha256": "cbbd77ee77623bbd5d482486883c34c889790042a816951c433a4f24271d21fb",
+      "size": 74659
+    },
+    {
+      "path": "cli/makefun.mjs",
+      "sha256": "9d7af7cdee8baa389ea25d12f3a20602ff057f916abdfa64bc10ba27efa30003",
+      "size": 18215747
+    },
+    {
+      "path": "cli/site.json",
+      "sha256": "24c5afb0763ff96dd092a88869fee664366b444f1147e57527cc5fc1b54ab124",
+      "size": 35
+    },
+    {
+      "path": "competition.yaml",
+      "sha256": "001bdc992a0f2bc48655afa4cb0ed99ab99a37bd77c1265ba4ab929f01833732",
+      "size": 27455
+    },
+    {
+      "path": "harness/CODE.sha256",
+      "sha256": "0c29d20a8e894cc6cd958d8f6973a019a78ccad4c299331b692c0448a35b319e",
+      "size": 21146
+    },
+    {
+      "path": "harness/SOURCES.sha256",
+      "sha256": "d3902c9c2fd6490ffaac8f8453e57f047936763f9939a90e2c9627d56904615d",
+      "size": 21146
+    },
+    {
+      "path": "harness/harness-src.tar.gz",
+      "sha256": "671e148f345c836c94a08bc3b2999890b553ec0d4b0d383002cfa967117e0483",
+      "size": 3221829
+    },
+    {
+      "path": "harness/harness-src.tar.gz.sha256",
+      "sha256": "a739fca8be61013d3acb08d00a29178e66094034faa73f93e483583cb07c9150",
+      "size": 85
+    }
+  ]
+}
